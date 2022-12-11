@@ -1,5 +1,1 @@
-Blablabla
-
-some info
-
-Happy New Year
+# Контроль версий
